@@ -1,0 +1,5 @@
+node_modules
+public/js/*.js
+build
+tests
+dist
